@@ -1,0 +1,11 @@
+Details of the Customer with the user id: 4
+
+Customerid: 4
+Customername: ddd
+Meterno: 61 
+Billtype: Industrial 
+Payment type: Offline 
+Amount: 8070.0
+Energy Consumed: 678.0
+Date and Time of Payment: 2022-07-19 11:24:17.0
+Paid By: xyz

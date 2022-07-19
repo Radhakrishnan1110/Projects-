@@ -1,0 +1,10 @@
+                BILL PAID SUCCESSFULLY          
+Paid date and Time:Tue Jul 19 11:25:17 IST 2022
+Order Id:879892433069460e973bb50755e33600
+Customerid: 8
+Customername: kkk
+Meterno: 35
+Payment Mode: Online 
+Unit Consumed :1678Wh
+Amount: 7529.0
+Paid by:Self
